@@ -7,12 +7,14 @@ Hints:
 Solución
 Con Python
 
-'''
-⁠ Sebas115-picoctf@webshell:~$ python ⁠
-⁠ Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux ⁠
-⁠ Type "help", "copyright", "credits" or "license" for more information. ⁠
->>> ⁠ chr(0x70) ⁠
-⁠ 'p' ⁠
+Sepulveda24-picoctf@webshell:~$ python 
+Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> chr(0x70)
+'p'
+>>> 
+
+
 picoCTF(p)
 
 Solución 2
@@ -27,3 +29,6 @@ Output: p
 Notas adicionales
 
 Referencias
+
+https://webshell.picoctf.org
+https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=MHg3MA

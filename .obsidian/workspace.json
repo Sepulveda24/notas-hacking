@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 General Skills/01_Lets Warm Up.md",
+                "file": "PicoCTF/01 General Skills/05_Lets Warm Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Lets Warm Up"
+              "title": "05_Lets Warm Up"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/01 General Skills/01_Lets Warm Up.md",
+                "file": "PicoCTF/01 General Skills/10_plumbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Lets Warm Up"
+              "title": "10_plumbing"
             }
           }
         ],
@@ -139,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PicoCTF/01 General Skills/02_Bases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 02_Bases"
             }
           },
           {
@@ -157,11 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PicoCTF/01 General Skills/02_Bases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 02_Bases"
             }
           },
           {
@@ -185,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PicoCTF/01 General Skills/02_Bases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 02_Bases"
             }
           }
         ]
@@ -210,13 +213,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3a3e384e3b77603",
+  "active": "e2a53ee4f60620e0",
   "lastOpenFiles": [
-    "PicoCTF/01 General Skills/01_Lets Warm Up.md",
+    "PicoCTF/01 General Skills/09_what's a net cat?.md",
+    "PicoCTF/01 General Skills/08_Warmed Up.md",
+    "PicoCTF/01 General Skills/07_Obedient Cat.md",
+    "PicoCTF/01 General Skills/06_Nice netcat....md",
+    "PicoCTF/01 General Skills/05_Lets Warm Up.md",
+    "PicoCTF/01 General Skills/04_Glitch Cat.md",
+    "PicoCTF/01 General Skills/10_plumbing.md",
     "README.md",
-    "Welcome.md",
+    "PicoCTF/01 General Skills/03_First Grep.md",
+    "PicoCTF/01 General Skills/02_Bases.md",
+    "PicoCTF/01 General Skills/01_2Warm.md",
+    "Untitled.md",
     "Plantilla.md",
     "Untitled",
+    "Welcome.md",
     "PicoCTF/01 General Skills/Untitled",
     "PicoCTF/01 General Skills",
     "PicoCTF"

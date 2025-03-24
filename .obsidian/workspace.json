@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "06_picobrowser"
             }
+          },
+          {
+            "id": "5e8f0ddd63c07bcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_Búsqueda del tesoro"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4cbf1896786cb58c",
@@ -227,14 +241,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d3c00ff9bad5c44f",
+  "active": "5e8f0ddd63c07bcc",
   "lastOpenFiles": [
+    "PicoCTF/09 picoCTF_Web 2/02_ADELANTE.md",
+    "PicoCTF/09 picoCTF_Web 2/01_Cookies.md",
+    "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
+    "PicoCTF/01 General Skills/01_2Warm.md",
+    "PicoCTF/08 picoCTF_Web 1/01_dont-use-client-side.md",
+    "PicoCTF/09 picoCTF_Web 2",
     "PicoCTF/08 picoCTF_Web 1/05_Client-side-again.md",
     "PicoCTF/08 picoCTF_Web 1/06_picobrowser.md",
     "PicoCTF/08 picoCTF_Web 1/04_where are the robots.md",
     "PicoCTF/08 picoCTF_Web 1/03_logon.md",
     "PicoCTF/08 picoCTF_Web 1/02_Insp3ct0r.md",
-    "PicoCTF/08 picoCTF_Web 1/01_dont-use-client-side.md",
     "PicoCTF/04 Tarea1_Generall Skills/01_Binary_Search.md",
     "PicoCTF/04 Tarea1_Generall Skills/10_Special.md",
     "PicoCTF/04 Tarea1_Generall Skills/03_Blame Game.md",
@@ -250,15 +269,11 @@
     "PicoCTF/04 Tarea1_Generall Skills/04_Collaborative_Development.md",
     "PicoCTF/04 Tarea1_Generall Skills/05_Commitment Issues.md",
     "PicoCTF/04 Tarea1_Generall Skills/06_Time_Machine.md",
-    "PicoCTF/01 General Skills/01_2Warm.md",
     "PicoCTF/03 General Skills/10_Serpentine.md",
     "PicoCTF/02 General Skills/01_Big Zip.md",
     "PicoCTF/02 General Skills/02_First Find.md",
     "PicoCTF/03 General Skills/01_CodeBook.md",
     "PicoCTF/04 Tarea1_Generall Skills",
-    "PicoCTF/03 General Skills/09_PW Crack 3.md",
-    "PicoCTF/03 General Skills/08_super SSH.md",
-    "PicoCTF/03 General Skills/07_runme.py.md",
     "PicoCTF/03 General Skills",
     "PicoCTF/02 General Skills",
     "PicoCTF/01 General Skills/Untitled",

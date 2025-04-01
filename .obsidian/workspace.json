@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
+                "file": "PicoCTF/10 picoCTF_Web3/03_JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_Búsqueda del tesoro"
+              "title": "03_JaWT Scratchpad"
             }
           }
         ],
@@ -243,9 +243,14 @@
   },
   "active": "5e8f0ddd63c07bcc",
   "lastOpenFiles": [
-    "PicoCTF/09 picoCTF_Web 2/02_ADELANTE.md",
+    "Plantilla.md",
+    "PicoCTF/10 picoCTF_Web3/02_MoreSQli.md",
+    "PicoCTF/10 picoCTF_Web3/01_Irish-Name-Repo 1.md",
+    "PicoCTF/10 picoCTF_Web3/03_JaWT Scratchpad.md",
     "PicoCTF/09 picoCTF_Web 2/01_Cookies.md",
     "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
+    "PicoCTF/10 picoCTF_Web3",
+    "PicoCTF/09 picoCTF_Web 2/02_ADELANTE.md",
     "PicoCTF/01 General Skills/01_2Warm.md",
     "PicoCTF/08 picoCTF_Web 1/01_dont-use-client-side.md",
     "PicoCTF/09 picoCTF_Web 2",
@@ -269,15 +274,10 @@
     "PicoCTF/04 Tarea1_Generall Skills/04_Collaborative_Development.md",
     "PicoCTF/04 Tarea1_Generall Skills/05_Commitment Issues.md",
     "PicoCTF/04 Tarea1_Generall Skills/06_Time_Machine.md",
-    "PicoCTF/03 General Skills/10_Serpentine.md",
-    "PicoCTF/02 General Skills/01_Big Zip.md",
-    "PicoCTF/02 General Skills/02_First Find.md",
-    "PicoCTF/03 General Skills/01_CodeBook.md",
     "PicoCTF/04 Tarea1_Generall Skills",
     "PicoCTF/03 General Skills",
     "PicoCTF/02 General Skills",
     "PicoCTF/01 General Skills/Untitled",
-    "PicoCTF/01 General Skills",
-    "PicoCTF"
+    "PicoCTF/01 General Skills"
   ]
 }

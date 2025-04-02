@@ -6,6 +6,7 @@
       {
         "id": "e6aa3b8619071691",
         "type": "tabs",
+        "dimension": 61.92307692307693,
         "children": [
           {
             "id": "248b1188a419a9a8",
@@ -69,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/10 picoCTF_Web3/03_JaWT Scratchpad.md",
+                "file": "PicoCTF/11 picoCTF_Web 4/03_Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_JaWT Scratchpad"
+              "title": "03_Trickster"
             }
           }
         ],
@@ -83,6 +84,7 @@
       {
         "id": "4cbf1896786cb58c",
         "type": "tabs",
+        "dimension": 38.07692307692307,
         "children": [
           {
             "id": "f3a3e384e3b77603",
@@ -243,10 +245,15 @@
   },
   "active": "5e8f0ddd63c07bcc",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "PicoCTF/10 picoCTF_Web3/02_MoreSQli.md",
+    "PicoCTF/11 picoCTF_Web 4/04_Most Cookies.md",
+    "PicoCTF/11 picoCTF_Web 4/03_Trickster.md",
+    "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
+    "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
     "PicoCTF/10 picoCTF_Web3/01_Irish-Name-Repo 1.md",
     "PicoCTF/10 picoCTF_Web3/03_JaWT Scratchpad.md",
+    "PicoCTF/11 picoCTF_Web 4",
+    "Plantilla.md",
+    "PicoCTF/10 picoCTF_Web3/02_MoreSQli.md",
     "PicoCTF/09 picoCTF_Web 2/01_Cookies.md",
     "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
     "PicoCTF/10 picoCTF_Web3",
@@ -270,14 +277,9 @@
     "PicoCTF/04 Tarea1_Generall Skills/02_Binhexa.md",
     "PicoCTF/04 Tarea1_Generall Skills/08_chrono.md",
     "PicoCTF/04 Tarea1_Generall Skills/09_Permissions.md",
-    "PicoCTF/04 Tarea1_Generall Skills/07_ASCII Numbers.md",
-    "PicoCTF/04 Tarea1_Generall Skills/04_Collaborative_Development.md",
-    "PicoCTF/04 Tarea1_Generall Skills/05_Commitment Issues.md",
-    "PicoCTF/04 Tarea1_Generall Skills/06_Time_Machine.md",
     "PicoCTF/04 Tarea1_Generall Skills",
     "PicoCTF/03 General Skills",
     "PicoCTF/02 General Skills",
-    "PicoCTF/01 General Skills/Untitled",
-    "PicoCTF/01 General Skills"
+    "PicoCTF/01 General Skills/Untitled"
   ]
 }

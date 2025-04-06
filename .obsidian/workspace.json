@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/12 picoCTF_Forensic1/03_shark on wire 1.md",
+                "file": "PicoCTF/Tarea2_Retos_Web/10_SQLiLite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_shark on wire 1"
+              "title": "10_SQLiLite"
             }
           }
         ],
@@ -259,12 +259,24 @@
   },
   "active": "e51dd8a47ce0318d",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "PicoCTF/Tarea2_Retos_Web/09_Secrets.md",
+    "PicoCTF/Tarea2_Retos_Web/08_Roboto Sans.md",
+    "PicoCTF/Tarea2_Retos_Web/10_SQLiLite.md",
+    "PicoCTF/Tarea2_Retos_Web/07_Galleta de poder.md",
+    "PicoCTF/Tarea2_Retos_Web/06_WebDecodificación.md",
+    "PicoCTF/Tarea2_Retos_Web/05_No_minimo.md",
+    "PicoCTF/Tarea2_Retos_Web/04_Autoridad local.md",
+    "PicoCTF/Tarea2_Retos_Web/03_IntroToBurp.md",
+    "PicoCTF/Tarea2_Retos_Web/02_Inspect HTML.md",
+    "PicoCTF/Tarea2_Retos_Web/01_Includes.md",
+    "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
     "PicoCTF/12 picoCTF_Forensic1/04_So Meta.md",
-    "PicoCTF/12 picoCTF_Forensic1/05_What Lies Within.md",
     "PicoCTF/12 picoCTF_Forensic1/03_shark on wire 1.md",
     "PicoCTF/12 picoCTF_Forensic1/02_Glory of the Garden.md",
     "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
-    "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
+    "PicoCTF/Tarea2_Retos_Web",
+    "PicoCTF/12 picoCTF_Forensic1/05_What Lies Within.md",
     "PicoCTF/11 picoCTF_Web 4/03_Trickster.md",
     "PicoCTF/12 picoCTF_Forensic1",
     "PicoCTF/Untitled.md",
@@ -273,27 +285,15 @@
     "PicoCTF/10 picoCTF_Web3/01_Irish-Name-Repo 1.md",
     "PicoCTF/10 picoCTF_Web3/03_JaWT Scratchpad.md",
     "PicoCTF/11 picoCTF_Web 4",
-    "Plantilla.md",
     "PicoCTF/10 picoCTF_Web3/02_MoreSQli.md",
     "PicoCTF/09 picoCTF_Web 2/01_Cookies.md",
     "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
     "PicoCTF/10 picoCTF_Web3",
-    "PicoCTF/09 picoCTF_Web 2/02_ADELANTE.md",
-    "PicoCTF/01 General Skills/01_2Warm.md",
-    "PicoCTF/08 picoCTF_Web 1/01_dont-use-client-side.md",
     "PicoCTF/09 picoCTF_Web 2",
-    "PicoCTF/08 picoCTF_Web 1/05_Client-side-again.md",
-    "PicoCTF/08 picoCTF_Web 1/06_picobrowser.md",
-    "PicoCTF/08 picoCTF_Web 1/04_where are the robots.md",
-    "PicoCTF/08 picoCTF_Web 1/03_logon.md",
-    "PicoCTF/08 picoCTF_Web 1/02_Insp3ct0r.md",
-    "PicoCTF/04 Tarea1_Generall Skills/01_Binary_Search.md",
-    "PicoCTF/04 Tarea1_Generall Skills/10_Special.md",
     "PicoCTF/08 picoCTF_Web 1",
     "PicoCTF/04 Tarea1_Generall Skills/Untitled",
     "Untitled",
     "PicoCTF/04 Tarea1_Generall Skills",
-    "PicoCTF/03 General Skills",
-    "PicoCTF/02 General Skills"
+    "PicoCTF/03 General Skills"
   ]
 }

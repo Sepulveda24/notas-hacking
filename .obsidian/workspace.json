@@ -84,12 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Tarea2_Retos_Web/10_SQLiLite.md",
+                "file": "PicoCTF/13 picoCTF_Forensic2/03_c0rrupt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10_SQLiLite"
+              "title": "03_c0rrupt"
             }
           }
         ],
@@ -259,10 +259,21 @@
   },
   "active": "e51dd8a47ce0318d",
   "lastOpenFiles": [
+    "PicoCTF/13 picoCTF_Forensic2/02_WhitePages.md",
+    "PicoCTF/13 picoCTF_Forensic2/04_like1000.md",
+    "PicoCTF/13 picoCTF_Forensic2/05_shark on wire 2.md",
+    "PicoCTF/13 picoCTF_Forensic2/03_c0rrupt.md",
+    "PicoCTF/13 picoCTF_Forensic2/01_mOOnwalk.md",
+    "PicoCTF/12 picoCTF_Forensic1/03_shark on wire 1.md",
+    "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
+    "PicoCTF/12 picoCTF_Forensic1/04_So Meta.md",
+    "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
+    "PicoCTF/Tarea2_Retos_Web/10_SQLiLite.md",
+    "PicoCTF/13 picoCTF_Forensic2",
+    "PicoCTF/12 picoCTF_Forensic1/Untitled.md",
     "Plantilla.md",
     "PicoCTF/Tarea2_Retos_Web/09_Secrets.md",
     "PicoCTF/Tarea2_Retos_Web/08_Roboto Sans.md",
-    "PicoCTF/Tarea2_Retos_Web/10_SQLiLite.md",
     "PicoCTF/Tarea2_Retos_Web/07_Galleta de poder.md",
     "PicoCTF/Tarea2_Retos_Web/06_WebDecodificación.md",
     "PicoCTF/Tarea2_Retos_Web/05_No_minimo.md",
@@ -271,29 +282,18 @@
     "PicoCTF/Tarea2_Retos_Web/02_Inspect HTML.md",
     "PicoCTF/Tarea2_Retos_Web/01_Includes.md",
     "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
-    "PicoCTF/12 picoCTF_Forensic1/04_So Meta.md",
-    "PicoCTF/12 picoCTF_Forensic1/03_shark on wire 1.md",
     "PicoCTF/12 picoCTF_Forensic1/02_Glory of the Garden.md",
-    "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
     "PicoCTF/Tarea2_Retos_Web",
     "PicoCTF/12 picoCTF_Forensic1/05_What Lies Within.md",
     "PicoCTF/11 picoCTF_Web 4/03_Trickster.md",
     "PicoCTF/12 picoCTF_Forensic1",
     "PicoCTF/Untitled.md",
-    "PicoCTF/11 picoCTF_Web 4/04_Most Cookies.md",
-    "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
-    "PicoCTF/10 picoCTF_Web3/01_Irish-Name-Repo 1.md",
-    "PicoCTF/10 picoCTF_Web3/03_JaWT Scratchpad.md",
     "PicoCTF/11 picoCTF_Web 4",
-    "PicoCTF/10 picoCTF_Web3/02_MoreSQli.md",
-    "PicoCTF/09 picoCTF_Web 2/01_Cookies.md",
-    "PicoCTF/09 picoCTF_Web 2/03_Búsqueda del tesoro.md",
     "PicoCTF/10 picoCTF_Web3",
     "PicoCTF/09 picoCTF_Web 2",
     "PicoCTF/08 picoCTF_Web 1",
     "PicoCTF/04 Tarea1_Generall Skills/Untitled",
     "Untitled",
-    "PicoCTF/04 Tarea1_Generall Skills",
-    "PicoCTF/03 General Skills"
+    "PicoCTF/04 Tarea1_Generall Skills"
   ]
 }

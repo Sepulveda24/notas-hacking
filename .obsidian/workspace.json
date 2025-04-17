@@ -6,7 +6,7 @@
       {
         "id": "e6aa3b8619071691",
         "type": "tabs",
-        "dimension": 61.92307692307693,
+        "dimension": 71.66095890410959,
         "children": [
           {
             "id": "248b1188a419a9a8",
@@ -84,21 +84,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/13 picoCTF_Forensic2/03_c0rrupt.md",
+                "file": "PicoCTF/Primer_examen_parcial_p1/08_flag_shop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03_c0rrupt"
+              "title": "08_flag_shop"
+            }
+          },
+          {
+            "id": "c5151f72d7da4ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Primer_examen_parcial_p1/09_SansAlpha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09_SansAlpha"
+            }
+          },
+          {
+            "id": "a0b99e86978d0311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Primer_examen_parcial_p2/04_n0s4n1ty 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04_n0s4n1ty 1"
+            }
+          },
+          {
+            "id": "95aac0ef816f704e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Primer_examen_parcial_p2/Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "ac3568abf7686bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Primer_examen_parcial_p1/01_FANTASY_CTF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_FANTASY_CTF"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       },
       {
         "id": "4cbf1896786cb58c",
         "type": "tabs",
-        "dimension": 38.07692307692307,
+        "dimension": 28.339041095890416,
         "children": [
           {
             "id": "f3a3e384e3b77603",
@@ -257,43 +313,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e51dd8a47ce0318d",
+  "active": "ac3568abf7686bb7",
   "lastOpenFiles": [
+    "PicoCTF/Primer_examen_parcial_p1/03_Python Wrangling.md",
+    "PicoCTF/Primer_examen_parcial_p1/05_Rust_fixme_2.md",
+    "PicoCTF/Primer_examen_parcial_p1/07_no-te-en-lo-antes-de-las-pancartas.md",
+    "PicoCTF/Primer_examen_parcial_p1/08_flag_shop.md",
+    "PicoCTF/Primer_examen_parcial_p1/09_SansAlpha.md",
+    "PicoCTF/Primer_examen_parcial_p1/10_Specialer.md",
+    "PicoCTF/Primer_examen_parcial_p2/01_Bookmarklet.md",
+    "PicoCTF/Primer_examen_parcial_p2/02_Cookie_Monster_Secret Recipe.md",
+    "PicoCTF/Primer_examen_parcial_p2/03_head-dump.md",
+    "PicoCTF/Primer_examen_parcial_p2/04_n0s4n1ty 1.md",
+    "PicoCTF/Primer_examen_parcial_p2/05_SSTI1.md",
+    "PicoCTF/Primer_examen_parcial_p2/06_findme.md",
+    "PicoCTF/Primer_examen_parcial_p2/07_Java Code Analysis!?!.md",
+    "PicoCTF/Primer_examen_parcial_p2/08_SQL Direct.md",
+    "PicoCTF/Primer_examen_parcial_p2/09_SSTI2.md",
+    "PicoCTF/Primer_examen_parcial_p2/10_WebSockFish.md",
+    "PicoCTF/Primer_examen_parcial_p1/06_Rust_fixme_3.md",
+    "PicoCTF/Primer_examen_parcial_p1/01_FANTASY_CTF.md",
+    "PicoCTF/Primer_examen_parcial_p1/02_HashingJobApp.md",
+    "PicoCTF/Primer_examen_parcial_p1/04_Rust_fixme_1.md",
+    "2025-04-15.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "PicoCTF/Primer_examen_parcial_p2",
+    "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
+    "PicoCTF/13 picoCTF_Forensic2/03_c0rrupt.md",
+    "PicoCTF/Primer_examen_parcial_p1",
     "PicoCTF/13 picoCTF_Forensic2/02_WhitePages.md",
     "PicoCTF/13 picoCTF_Forensic2/04_like1000.md",
-    "PicoCTF/13 picoCTF_Forensic2/05_shark on wire 2.md",
-    "PicoCTF/13 picoCTF_Forensic2/03_c0rrupt.md",
-    "PicoCTF/13 picoCTF_Forensic2/01_mOOnwalk.md",
-    "PicoCTF/12 picoCTF_Forensic1/03_shark on wire 1.md",
-    "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
-    "PicoCTF/12 picoCTF_Forensic1/04_So Meta.md",
-    "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
-    "PicoCTF/Tarea2_Retos_Web/10_SQLiLite.md",
     "PicoCTF/13 picoCTF_Forensic2",
-    "PicoCTF/12 picoCTF_Forensic1/Untitled.md",
-    "Plantilla.md",
-    "PicoCTF/Tarea2_Retos_Web/09_Secrets.md",
-    "PicoCTF/Tarea2_Retos_Web/08_Roboto Sans.md",
-    "PicoCTF/Tarea2_Retos_Web/07_Galleta de poder.md",
-    "PicoCTF/Tarea2_Retos_Web/06_WebDecodificación.md",
-    "PicoCTF/Tarea2_Retos_Web/05_No_minimo.md",
-    "PicoCTF/Tarea2_Retos_Web/04_Autoridad local.md",
-    "PicoCTF/Tarea2_Retos_Web/03_IntroToBurp.md",
-    "PicoCTF/Tarea2_Retos_Web/02_Inspect HTML.md",
-    "PicoCTF/Tarea2_Retos_Web/01_Includes.md",
-    "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
-    "PicoCTF/12 picoCTF_Forensic1/02_Glory of the Garden.md",
     "PicoCTF/Tarea2_Retos_Web",
-    "PicoCTF/12 picoCTF_Forensic1/05_What Lies Within.md",
-    "PicoCTF/11 picoCTF_Web 4/03_Trickster.md",
     "PicoCTF/12 picoCTF_Forensic1",
-    "PicoCTF/Untitled.md",
     "PicoCTF/11 picoCTF_Web 4",
     "PicoCTF/10 picoCTF_Web3",
     "PicoCTF/09 picoCTF_Web 2",
     "PicoCTF/08 picoCTF_Web 1",
-    "PicoCTF/04 Tarea1_Generall Skills/Untitled",
-    "Untitled",
-    "PicoCTF/04 Tarea1_Generall Skills"
+    "PicoCTF/04 Tarea1_Generall Skills/Untitled"
   ]
 }

@@ -168,12 +168,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/16 picoCTF_Forensic3/04_WebNet1.md",
+                "file": "PicoCTF/15 picoCTF_Forensic4/06_Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_WebNet1"
+              "title": "06_Operation Oni"
             }
           }
         ],
@@ -343,17 +343,25 @@
   },
   "active": "87f860163672d9b9",
   "lastOpenFiles": [
-    "PicoCTF/16 picoCTF_Forensic3/04_WebNet0.md",
-    "PicoCTF/16 picoCTF_Forensic3/04_WebNet1.md",
-    "PicoCTF/16 picoCTF_Forensic3/03_Tunn3l v1s10n.md",
-    "PicoCTF/16 picoCTF_Forensic3/02_Muñeca Matryoshka.md",
-    "PicoCTF/16 picoCTF_Forensic3/01_MacroHard WeakEdge.md",
+    "PicoCTF/15 picoCTF_Forensic4/05_Operation Orchid.md",
+    "PicoCTF/15 picoCTF_Forensic4/06_Operation Oni.md",
+    "PicoCTF/15 picoCTF_Forensic4/02_Disk, disk, sleuth!.md",
+    "PicoCTF/15 picoCTF_Forensic4/04_Sleuthkit Apprentice.md",
+    "PicoCTF/15 picoCTF_Forensic4/03_Sleuthkit Intro.md",
+    "PicoCTF/15 picoCTF_Forensic4/01_MilkSlap.md",
+    "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
+    "PicoCTF/14 picoCTF_Forensic3/01_MacroHard WeakEdge.md",
+    "PicoCTF/14 picoCTF_Forensic3/04_WebNet1.md",
+    "PicoCTF/15 picoCTF_Forensic4",
+    "PicoCTF/14 picoCTF_Forensic3/04_WebNet0.md",
+    "PicoCTF/14 picoCTF_Forensic3/03_Tunn3l v1s10n.md",
+    "PicoCTF/14 picoCTF_Forensic3/02_Muñeca Matryoshka.md",
     "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
     "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
     "PicoCTF/13 picoCTF_Forensic2/01_mOOnwalk.md",
     "PicoCTF/13 picoCTF_Forensic2/02_WhitePages.md",
     "Untitled 1.canvas",
-    "PicoCTF/16 picoCTF_Forensic3",
+    "PicoCTF/14 picoCTF_Forensic3",
     "Untitled.canvas",
     "Untitled.md",
     "PicoCTF/Primer_examen_parcial_p1/03_Python Wrangling.md",
@@ -365,13 +373,6 @@
     "PicoCTF/Primer_examen_parcial_p2/01_Bookmarklet.md",
     "PicoCTF/Primer_examen_parcial_p2/02_Cookie_Monster_Secret Recipe.md",
     "PicoCTF/Primer_examen_parcial_p2/03_head-dump.md",
-    "PicoCTF/Primer_examen_parcial_p2/04_n0s4n1ty 1.md",
-    "PicoCTF/Primer_examen_parcial_p2/05_SSTI1.md",
-    "PicoCTF/Primer_examen_parcial_p2/06_findme.md",
-    "PicoCTF/Primer_examen_parcial_p2/07_Java Code Analysis!?!.md",
-    "PicoCTF/Primer_examen_parcial_p2/08_SQL Direct.md",
-    "PicoCTF/Primer_examen_parcial_p2/09_SSTI2.md",
-    "PicoCTF/Primer_examen_parcial_p2/10_WebSockFish.md",
     "PicoCTF/Primer_examen_parcial_p2",
     "PicoCTF/Primer_examen_parcial_p1",
     "PicoCTF/13 picoCTF_Forensic2",
@@ -379,7 +380,6 @@
     "PicoCTF/12 picoCTF_Forensic1",
     "PicoCTF/11 picoCTF_Web 4",
     "PicoCTF/10 picoCTF_Web3",
-    "PicoCTF/09 picoCTF_Web 2",
-    "PicoCTF/08 picoCTF_Web 1"
+    "PicoCTF/09 picoCTF_Web 2"
   ]
 }

@@ -168,16 +168,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/15 picoCTF_Forensic4/06_Operation Oni.md",
+                "file": "PicoCTF/Tarea3_Forensic/06_Secret of the Polyglot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06_Operation Oni"
+              "title": "06_Secret of the Polyglot"
+            }
+          },
+          {
+            "id": "79c3264c9eda71e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tarea3_Forensic/07_flags are stepic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07_flags are stepic"
+            }
+          },
+          {
+            "id": "4b00f24dcd02f98a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tarea3_Forensic/08_hideme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08_hideme"
+            }
+          },
+          {
+            "id": "4597e9b88e7fc63e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tarea3_Forensic/09_Redaction gone wrong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09_Redaction gone wrong"
+            }
+          },
+          {
+            "id": "86f35a2b09d1f651",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Tarea2_Retos_Web/05_No_minimo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05_No_minimo"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 15
       },
       {
         "id": "4cbf1896786cb58c",
@@ -341,10 +397,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87f860163672d9b9",
+  "active": "86f35a2b09d1f651",
   "lastOpenFiles": [
-    "PicoCTF/15 picoCTF_Forensic4/05_Operation Orchid.md",
+    "PicoCTF/Tarea3_Forensic/10_St3g0.md",
+    "PicoCTF/Tarea3_Forensic/02_information.md",
+    "PicoCTF/Tarea3_Forensic/06_Secret of the Polyglot.md",
+    "PicoCTF/Tarea3_Forensic/09_Redaction gone wrong.md",
+    "PicoCTF/Tarea3_Forensic/08_hideme.md",
+    "PicoCTF/Tarea3_Forensic/07_flags are stepic.md",
+    "PicoCTF/Tarea3_Forensic/05_Scan Surprise.md",
+    "PicoCTF/Tarea3_Forensic/03_Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/Tarea3_Forensic/04_RED.md",
+    "PicoCTF/Tarea3_Forensic/01_CanYouSee.md",
+    "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
+    "PicoCTF/13 picoCTF_Forensic2/01_mOOnwalk.md",
     "PicoCTF/15 picoCTF_Forensic4/06_Operation Oni.md",
+    "PicoCTF/Tarea3_Forensic",
+    "PicoCTF/Tarea3_Forensic.md",
+    "PicoCTF/15 picoCTF_Forensic4/05_Operation Orchid.md",
     "PicoCTF/15 picoCTF_Forensic4/02_Disk, disk, sleuth!.md",
     "PicoCTF/15 picoCTF_Forensic4/04_Sleuthkit Apprentice.md",
     "PicoCTF/15 picoCTF_Forensic4/03_Sleuthkit Intro.md",
@@ -356,30 +426,16 @@
     "PicoCTF/14 picoCTF_Forensic3/04_WebNet0.md",
     "PicoCTF/14 picoCTF_Forensic3/03_Tunn3l v1s10n.md",
     "PicoCTF/14 picoCTF_Forensic3/02_Muñeca Matryoshka.md",
-    "PicoCTF/11 picoCTF_Web 4/02_SOAP.md",
     "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
-    "PicoCTF/13 picoCTF_Forensic2/01_mOOnwalk.md",
-    "PicoCTF/13 picoCTF_Forensic2/02_WhitePages.md",
     "Untitled 1.canvas",
     "PicoCTF/14 picoCTF_Forensic3",
     "Untitled.canvas",
-    "Untitled.md",
-    "PicoCTF/Primer_examen_parcial_p1/03_Python Wrangling.md",
-    "PicoCTF/Primer_examen_parcial_p1/05_Rust_fixme_2.md",
-    "PicoCTF/Primer_examen_parcial_p1/07_no-te-en-lo-antes-de-las-pancartas.md",
-    "PicoCTF/Primer_examen_parcial_p1/08_flag_shop.md",
-    "PicoCTF/Primer_examen_parcial_p1/09_SansAlpha.md",
-    "PicoCTF/Primer_examen_parcial_p1/10_Specialer.md",
-    "PicoCTF/Primer_examen_parcial_p2/01_Bookmarklet.md",
-    "PicoCTF/Primer_examen_parcial_p2/02_Cookie_Monster_Secret Recipe.md",
-    "PicoCTF/Primer_examen_parcial_p2/03_head-dump.md",
     "PicoCTF/Primer_examen_parcial_p2",
     "PicoCTF/Primer_examen_parcial_p1",
     "PicoCTF/13 picoCTF_Forensic2",
     "PicoCTF/Tarea2_Retos_Web",
     "PicoCTF/12 picoCTF_Forensic1",
     "PicoCTF/11 picoCTF_Web 4",
-    "PicoCTF/10 picoCTF_Web3",
-    "PicoCTF/09 picoCTF_Web 2"
+    "PicoCTF/10 picoCTF_Web3"
   ]
 }

@@ -224,12 +224,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/16 picoCTF_Crypto_P1/08_waves over lambda.md",
+                "file": "PicoCTF/17 picoCTF_Crypto_p2/01_rsa pop quiz (exp.py).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_waves over lambda"
+              "title": "01_rsa pop quiz (exp.py)"
             }
           }
         ],
@@ -399,6 +399,14 @@
   },
   "active": "86f35a2b09d1f651",
   "lastOpenFiles": [
+    "PicoCTF/10 picoCTF_Web3/02_MoreSQli.md",
+    "PicoCTF/12 picoCTF_Forensic1/01_extensions.md",
+    "PicoCTF/13 picoCTF_Forensic2/01_mOOnwalk.md",
+    "PicoCTF/14 picoCTF_Forensic3/01_MacroHard WeakEdge.md",
+    "PicoCTF/15 picoCTF_Forensic4/01_MilkSlap.md",
+    "PicoCTF/17 picoCTF_Crypto_p2/01_rsa pop quiz (exp.py).md",
+    "PicoCTF/16 picoCTF_Crypto_P1/08_waves over lambda.md",
+    "PicoCTF/17 picoCTF_Crypto_p2",
     "PicoCTF/16 picoCTF_Crypto_P1/07_Tapping.md",
     "PicoCTF/16 picoCTF_Crypto_P1/05_Easy1.md",
     "PicoCTF/16 picoCTF_Crypto_P1/06_lacifrade.md",
@@ -406,13 +414,11 @@
     "PicoCTF/16 picoCTF_Crypto_P1/01_13.md",
     "PicoCTF/16 picoCTF_Crypto_P1/02_interencdec.md",
     "PicoCTF/16 picoCTF_Crypto_P1/03_The Numbers.md",
-    "PicoCTF/16 picoCTF_Crypto_P1/08_waves over lambda.md",
     "PicoCTF/01 General Skills/01_2Warm.md",
     "PicoCTF/15 picoCTF_Forensic4/05_Operation Orchid.md",
     "PicoCTF/15 picoCTF_Forensic4/04_Sleuthkit Apprentice.md",
     "PicoCTF/15 picoCTF_Forensic4/03_Sleuthkit Intro.md",
     "PicoCTF/15 picoCTF_Forensic4/02_Disk, disk, sleuth!.md",
-    "PicoCTF/15 picoCTF_Forensic4/01_MilkSlap.md",
     "PicoCTF/11 picoCTF_Web 4/01_MatchTheRegex.md",
     "2025-05-13.md",
     "PicoCTF/16 picoCTF_Crypto_P1",
@@ -422,11 +428,6 @@
     "PicoCTF/Tarea3_Forensic/02_information.md",
     "PicoCTF/Tarea3_Forensic/06_Secret of the Polyglot.md",
     "PicoCTF/Tarea3_Forensic/09_Redaction gone wrong.md",
-    "PicoCTF/Tarea3_Forensic/08_hideme.md",
-    "PicoCTF/Tarea3_Forensic/07_flags are stepic.md",
-    "PicoCTF/Tarea3_Forensic/05_Scan Surprise.md",
-    "PicoCTF/Tarea3_Forensic/03_Ph4nt0m 1ntrud3r.md",
-    "PicoCTF/Tarea3_Forensic/04_RED.md",
     "PicoCTF/Tarea3_Forensic",
     "PicoCTF/15 picoCTF_Forensic4",
     "Untitled 1.canvas",
@@ -436,7 +437,6 @@
     "PicoCTF/Primer_examen_parcial_p1",
     "PicoCTF/13 picoCTF_Forensic2",
     "PicoCTF/Tarea2_Retos_Web",
-    "PicoCTF/12 picoCTF_Forensic1",
-    "PicoCTF/11 picoCTF_Web 4"
+    "PicoCTF/12 picoCTF_Forensic1"
   ]
 }

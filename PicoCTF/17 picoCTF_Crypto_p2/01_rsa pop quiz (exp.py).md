@@ -21,6 +21,8 @@ d- llave privada
 d= e mod inv   tn / inverse(e, tn)          (llave privada)
 n = p * q
 tn =  ( p-1) *(q-1)
+d= pow(e, -1, tn)
+
 
 Encriptar
 c = m a la e mod n    /    pow(m,e,n)
